@@ -7,5 +7,5 @@ def find_duplicate(array: list):
                 return False
 
 if __name__ == '__main__':
-    array = [1,1,2,2,3]
-    print(find_duplicate(array))
+    arr = [1,1,2,2,3]
+    print(find_duplicate(arr))

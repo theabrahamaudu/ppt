@@ -13,6 +13,6 @@ def merge_sort(array_1: list, array_2: list) -> list:
 
 
 if __name__ == "__main__":
-    array_1, array_2 = [1, 2, 3, 0, 0, 0], [2, 5, 6]
+    a_1, a_2 = [1, 2, 3, 0, 0, 0], [2, 5, 6]
 
-    print(merge_sort(array_1, array_2))
+    print(merge_sort(a_1, a_2))
